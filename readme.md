@@ -1,8 +1,11 @@
 <h1 align="left">Olá 👋</h1>
+🙋 Me chamo Lucas Porto
 
-📖 Estudando engenharia de sotfware na PUC Minas
+🏙️ Moro em Belo horizonte
 
-👩‍💻 A procura de novas experiencias em um estagio
+📖 Estudante de engenharia de sotfware na PUC Minas
+
+👩‍💻 A procura de oportuniades de estágio
 
 🔨 Tecnologias: 
 </br>
